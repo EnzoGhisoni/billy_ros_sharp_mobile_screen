@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.firstproject.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Utilisateur\\Document\\Code\\Unity\\RosSharpVR\\MobileScreenTechnic\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "firstProject [Testing]"
+        }
+      }
+    }
+  ]
+}
